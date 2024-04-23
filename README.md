@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yarosla4vikfx&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/yarosla4vikfx)
 
 
+# 💫 Software Developer | Web Design | UI/UX Design
+
 # 🌐 Social Media:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zenkyivfx2d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y.a.r.o.s.l.a.v._2.0.0.3/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zenkyivfx2d) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCLwc0P7LcZXrzLqIInN9iXQ)
 
