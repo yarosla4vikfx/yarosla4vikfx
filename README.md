@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 - 🌍 Ukraine
 - 💻 PC developer
-- 🎥 Here my software portfolio [Youtube]()
-- 🧑‍🏫 Creator of [ZENKYIVFX](https://zenkyivfx.blogspot.com)
+- 🎥 See my portfolio at [Yaroslav.Dev](https://yaroslavdev.blogspot.com)
+- 🧑‍🏫 Creator of [ZENKYIVFX](https://zenkyivfx.blogspot.com) and [Yaroslav.Dev](https://yaroslavdev.blogspot.com)
 <br>
 
 # 🌐 Social Media:
