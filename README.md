@@ -68,4 +68,10 @@ Here are some ideas to get you started:
 
 :construction: Project under construction :construction:
 
+## Author
+
+| [<img src="https://github.com/yarosla4vikfx/yarosla4vikfx/assets/150625524/b826ca4f-85dd-4aa6-94af-959190fcbade" width=115><br><sub>Y A R O S L A 4 V I K.</sub>](https://github.com/yarosla4vikfx) |
+| :---: | 
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
