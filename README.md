@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## About me
 
 - 🌍 Ukraine
-- 📲 PC developer
+- 💻 PC developer
 - 🎥 Here my software portfolio [Youtube]()
 - 🧑‍🏫 Creator of [ZENKYIVFX](https://zenkyivfx.blogspot.com)
 <br>
