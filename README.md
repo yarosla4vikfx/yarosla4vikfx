@@ -24,6 +24,14 @@ Here are some ideas to get you started:
 
 # 💫 Software Developer | Web Design | UI/UX Design
 
+## About me
+
+- 🌍 Ukraine
+- 📲 PC developer
+- 🎥 Here my software portfolio [Youtube]()
+- 🧑‍🏫 Creator of [ZENKYIVFX](https://zenkyivfx.blogspot.com)
+<br>
+
 # 🌐 Social Media:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zenkyivfx2d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y.a.r.o.s.l.a.v._2.0.0.3/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zenkyivfx2d) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCLwc0P7LcZXrzLqIInN9iXQ)
 
