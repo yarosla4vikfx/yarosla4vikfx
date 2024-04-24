@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![YaroslavDevGithub](https://github.com/yarosla4vikfx/yarosla4vikfx/assets/150625524/ebe4d2f1-df09-40fa-b9d4-f61c879b1343)
+![YaroslavDevGithub](https://github.com/yarosla4vikfx/yarosla4vikfx/assets/150625524/458d0714-906e-496f-b0a3-b8f1b5da3e74)
 
 
 
